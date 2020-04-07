@@ -1,0 +1,11 @@
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
