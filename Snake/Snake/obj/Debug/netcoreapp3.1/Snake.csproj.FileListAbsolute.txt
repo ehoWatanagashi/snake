@@ -9,3 +9,5 @@ C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\obj\Debug\netcoreapp3.
 C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
 C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
 C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Progr\GeekBrains\Основы ООП\snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
